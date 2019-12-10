@@ -1,4 +1,5 @@
 # :star: APT_Sample-Weapoon
+
 此处提供一些收集到的 APT 组相关样本，勒索病毒、远控等恶意程序，供安全研究者使用，严禁非法使用，否则后果自负 :disappointed:
 
 # About
@@ -13,3 +14,7 @@
 # Tips
 
 :hammer: 在虚拟机中运行，可使用 [Virustotal](https://www.virustotal.com/) 、[Hybrid Analysis](https://habo.qq.com/) 进行辅助分析
+
+### FAQ
+
+> 👉 切换为[英文说明](https://github.com/xazlsec/APT_Sample-Weapoon/blob/master/README_EN.md)
